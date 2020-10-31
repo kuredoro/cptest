@@ -72,7 +72,7 @@ AUTHOR
         to make an issue on GitHub!
 
 VERSION
-        1.0.0
+        1.0.1
 
 `)
 	}
